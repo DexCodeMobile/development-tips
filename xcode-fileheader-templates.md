@@ -25,7 +25,7 @@ Workspace shared data: `<WorkspaceName>.xcworkspace/xcshareddata/IDETemplateMacr
 // ___ORGANIZATIONNAME___ copyright header stop
 // /////////////////////////////////////////////////////////////////////////////////////////////////</string>
     <key>ORGANIZATIONNAME</key>
-    <string>Gen Digital</string>
+    <string>COMPANYNAME</string>
 </dict>
 </plist>
 ```
